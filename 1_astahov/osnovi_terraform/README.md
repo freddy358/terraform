@@ -1,11 +1,11 @@
 - Initialize terraform from .tf file
 
-`    terraform init`
+`terraform init`
 
 - Dry run
 
-`    terraform plan`
+`terraform plan`
 
 - Apply terraform 
 
-`    terraform apply`
+`terraform apply`
