@@ -2,6 +2,7 @@ provider "aws" {}
 
 
 resource "aws_instance" "my_Ubuntu" {
+  count         = 3
   ami           = "ami-090f10efc254eaf55"
   instance_type = "t3.micro"
 
