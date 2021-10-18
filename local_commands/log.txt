@@ -1,0 +1,2 @@
+Terraform START: bazar ertəsi, 18 oktyabr 2021 00:56:31 +04
+Terraform END: bazar ertəsi, 18 oktyabr 2021 01:09:04 +04
